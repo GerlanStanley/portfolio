@@ -60174,9 +60174,9 @@ return A.J($async$$0,r)},
 $S:11}
 A.AI.prototype={
 S(a){var s,r,q,p,o=null,n=A.cK(a,o,t.w).w.a.a>=1000,m=n?70:50
-m=A.bi(o,A.cd("Desenvolvedor Mobile",o,A.aA(a).p2.a,B.I),B.n,o,o,o,o,o,new A.aB(0,m,0,0),o,o,o,o)
+m=A.bi(o,A.cd("Desenvolvedor Mobile",o,A.aA(a).p2.a,B.I),B.n,o,o,o,o,o,new A.aB(20,m,20,0),o,o,o,o)
 s=n?20:16
-s=A.bi(o,A.cd("Adoro criar apps incr\xedveis com c\xf3digo limpo e eficiente!",o,A.aA(a).p2.b,B.I),B.n,o,o,o,o,o,new A.aB(0,s,0,0),o,o,o,o)
+s=A.bi(o,A.cd("Adoro criar apps incr\xedveis com c\xf3digo limpo e eficiente!",o,A.aA(a).p2.b,B.I),B.n,o,o,o,o,o,new A.aB(20,s,20,0),o,o,o,o)
 r=n?70:60
 q=n?100:80
 p=A.aA(a)
