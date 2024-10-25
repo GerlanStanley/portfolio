@@ -3,17 +3,17 @@ const MANIFEST = 'flutter-app-manifest';
 const TEMP = 'flutter-temp-cache';
 const CACHE_NAME = 'flutter-app-cache';
 
-const RESOURCES = {"flutter_bootstrap.js": "ecaff8a73056fd0e24d3acd42d72b1ac",
+const RESOURCES = {"flutter_bootstrap.js": "6acc6d6aa4ca9dcb3bc5f0a852662ac9",
 "version.json": "009c9e65172e010890f7f65fde438006",
 "index.html": "57643a70a043057cfb529ea716a67888",
 "/": "57643a70a043057cfb529ea716a67888",
-"main.dart.js": "f8c3ace3d703c8c3471e747d865e8ac1",
+"main.dart.js": "1dc5a3ecee8fc7623ee506ea9d0bc10d",
 "flutter.js": "f393d3c16b631f36852323de8e583132",
-"favicon.png": "14ac545c292edda895ff617f5c2b2a0d",
-"icons/Icon-192.png": "7d0e88a50d5fb673373c8bdb8689aecb",
-"icons/Icon-maskable-192.png": "7d0e88a50d5fb673373c8bdb8689aecb",
-"icons/Icon-maskable-512.png": "e2fbbaa5d57f1ead5a278c146ed6409f",
-"icons/Icon-512.png": "e2fbbaa5d57f1ead5a278c146ed6409f",
+"favicon.png": "523fe00d7c26d38d9304cca577184f0e",
+"icons/Icon-192.png": "88ab41e2542f3ccb99a68613d6990793",
+"icons/Icon-maskable-192.png": "88ab41e2542f3ccb99a68613d6990793",
+"icons/Icon-maskable-512.png": "dda71188ee1a38df331af85703bf8226",
+"icons/Icon-512.png": "dda71188ee1a38df331af85703bf8226",
 "manifest.json": "50cdaf7f29d7ea82687344f9f00e8a11",
 "assets/AssetManifest.json": "15e186080cb3eb9e71046d8864739f49",
 "assets/NOTICES": "d999404e6ccb2c72508e6a920607d450",
@@ -36,7 +36,7 @@ const RESOURCES = {"flutter_bootstrap.js": "ecaff8a73056fd0e24d3acd42d72b1ac",
 "assets/assets/images/yeloo.png": "d2142c0c2c636d01a86729db6b400c5f",
 "assets/assets/images/logo_mateus_mais_curta.png": "283cf904c40c8b1b5dbc2a5e36b6dbc1",
 "assets/assets/images/mm_coletor.png": "7947990ae99056e51c1f8cfd900b4236",
-"assets/assets/images/gs_logo.png": "0627a7674c263ca5854a7409850fa6ab",
+"assets/assets/images/gs_logo.png": "dda71188ee1a38df331af85703bf8226",
 "assets/assets/images/logo_mateus_mais.png": "005f091b35fea417e596513462ea81d5",
 "assets/assets/images/oba_delivery.png": "05b2986872112fdd5b1f33461bb30809",
 "canvaskit/skwasm.js": "694fda5704053957c2594de355805228",
@@ -48,8 +48,7 @@ const RESOURCES = {"flutter_bootstrap.js": "ecaff8a73056fd0e24d3acd42d72b1ac",
 "canvaskit/chromium/canvaskit.wasm": "b1ac05b29c127d86df4bcfbf50dd902a",
 "canvaskit/canvaskit.js": "66177750aff65a66cb07bb44b8c6422b",
 "canvaskit/canvaskit.wasm": "1f237a213d7370cf95f443d896176460",
-"canvaskit/skwasm.worker.js": "89990e8c92bcb123999aa81f7e203b1c",
-".idea/workspace.xml": "a97555c453305efd5984a615faa3c204"};
+"canvaskit/skwasm.worker.js": "89990e8c92bcb123999aa81f7e203b1c"};
 // The application shell files that are downloaded before a service worker can
 // start.
 const CORE = ["main.dart.js",
